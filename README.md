@@ -2,8 +2,9 @@
 
 A full-stack web application for managing team projects and tasks with role-based access control.
 
-**Live URL:** https://your-frontend.railway.app  
-**GitHub:** https://github.com/your-username/team-task-manager
+Live URL: https://unique-manifestation-production-4343.up.railway.app
+
+GitHub: https://github.com/Ovaisgithub/team-task-manager
 
 ---
 
